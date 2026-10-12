@@ -20,7 +20,7 @@ FINALLY WE CALCULATE AVG ORDER VALUE and AVG MONTHLY SPENDING .
 
 
 THE MySql Code is :
-
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 USE datawarehouseanalytics;
 
